@@ -1,4 +1,4 @@
-Hello!
+. Hello!
 
 I just changed my file.
 
